@@ -1,4 +1,4 @@
-import { Flower } from "../Flower.js";
+import { Flower } from "./Flower.js";
 
 export default  class Rose extends Flower{
     constructor(amount){

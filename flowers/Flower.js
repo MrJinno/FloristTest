@@ -1,4 +1,4 @@
-import pl from './PriceList.js'
+import pl from '../PriceList.js'
 
 export class Flower{
 constructor(amount, name, color){

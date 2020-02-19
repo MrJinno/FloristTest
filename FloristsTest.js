@@ -1,7 +1,7 @@
-import Rose from './FlowerType/Rose.js'
-import Freesia from './FlowerType/Freesia.js'
-import Lilac from './FlowerType/Lilac.js'
-import Peony from './FlowerType/Peony.js'
+import Rose from './flowers/Rose.js'
+import Freesia from './flowers/Freesia.js'
+import Lilac from './flowers/Lilac.js'
+import Peony from './flowers/Peony.js'
 import pl from './PriceList.js';
 import { Customer } from './Customer.js';
 import { Box } from './Box.js';

@@ -1,4 +1,4 @@
-import { Flower } from "../Flower.js";
+import { Flower } from "./Flower.js";
 
 export default class Freesia extends Flower{
     constructor(amount){
